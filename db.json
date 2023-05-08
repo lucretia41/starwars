@@ -1,0 +1,124 @@
+{
+    "jedis": [ 
+    {
+         "id": 1,
+         "name": "Anakin Skywalker",
+         "image": "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest?cb=20130621175844",
+         "species": "Human",
+         "yearOfBirth": "42 BBY"  ,
+         "movies" : "Star Wars: Return of the Jedi (Episode VI), Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III)"
+        },
+        {
+            "id": 2,
+            "name": "Obi-Wan Kenobi",
+            "image": "https://api.time.com/wp-content/uploads/2015/12/star-wars-episode-iii-revenge-of-the-sith-obi-wan.jpg",
+            "species": "Human",
+            "yearOfBirth": "57 BBY"  ,
+            "movies" : "Star Wars: Return of the Jedi (Episode VI), Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III), Star Wars: The Empire Strikes Back (Episode V), Star Wars: Return of the Jedi (Episode VI)"
+        },
+        {
+            "id": 3,
+            "name": "Shaak Ti",
+            "image": "https://external-preview.redd.it/vXBkQZ56IxEmmudoktOLlKdW3UmOtAZKUhWBbeDPKvA.png?auto=webp&s=b29e74e95f8b9bb3300749ed20b5c4aa811a2161",
+            "species": "Togruta",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II)"
+        },
+        {
+            "id": 4,
+            "name": "Stass Allie",
+            "image": "https://static.wikia.nocookie.net/starwars/images/8/8b/Stass_Allie.jpg/revision/latest?cb=20070902065705",
+            "species": "Tholothian",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III)"
+        },
+        {
+            "id": 5,
+            "name": "Agen Kolar",
+            "image": "https://static.wikia.nocookie.net/starwars/images/7/76/AgenKolar-Databank.png/revision/latest?cb=20170724060936",
+            "species": "Zabrak",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III)"
+        },
+        {
+            "id": 6,
+            "name": "Depa Billaba",
+            "image": "https://staticdelivery.nexusmods.com/images/2229/120069718-1627310108.png",
+            "species": "Human",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II)"
+        },
+        {
+            "id": 7,
+            "name": "Coleman Kcaj",
+            "image": "https://staticdelivery.nexusmods.com/images/2229/120069718-1627218961.png",
+            "species": "Ongree",
+            "yearOfBirth": "9 BBY" ,
+            "movies" : "Star Wars: Revenge of the Sith (Episode III)"
+        },
+        {
+            "id": 8,
+            "name": "Saesse Tiin",
+            "image": "https://static.wikia.nocookie.net/starwars/images/f/f4/SaeseeTiinFull-SWE.png/revision/latest?cb=20160913232333",
+            "species": "Iktotchi",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II)"
+        },
+        {
+            "id": 9,
+            "name": "Oppo Rancisis",
+            "image": "https://static.wikia.nocookie.net/starwars/images/4/40/Oppo_rancisis2.jpg/revision/latest?cb=20080626153656",
+            "species": "Thisspiasian",
+            "yearOfBirth": "206 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I)"
+        },
+        {
+            "id": 10,
+            "name": "Kit Fisto",
+            "image": "https://static.wikia.nocookie.net/starwars/images/2/25/KitFisto-USWNE.png/revision/latest?cb=20221202063304",
+            "species": "Nautolan",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III)"
+        },
+        {
+            "id": 11,
+            "name": "Plo Koon",
+            "image": "https://static.wikia.nocookie.net/starwars/images/1/1f/PloKoon-SWFB.png/revision/latest?cb=20160910061353",
+            "species": "Kel Dor",
+            "yearOfBirth": "382 Kel Dor years prior to 22 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I)"
+        },
+        {
+            "id": 12,
+            "name": "Luminara Unduli",
+            "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/Luminarafull.jpg/revision/latest?cb=20080325183610",
+            "species": "Mirialan",
+            "yearOfBirth": "Between 18/19 BBY"  ,
+            "movies" : "Star Wars: Attack of the Clones (Episode II)"
+        },
+        {
+            "id": 13,
+            "name": "Ki-Adi-Mundi",
+            "image": "https://static.wikia.nocookie.net/p__/images/2/24/Ki-Adi-Mundi_Profile.png/revision/latest?cb=20201008215714&path-prefix=protagonist",
+            "species": "Cerean",
+            "yearOfBirth": "19 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II)"
+        },
+        {
+            "id": 14,
+            "name": "Mace Windu",
+            "image": "https://static.wikia.nocookie.net/swfanon/images/7/7e/MaceWindu.jpg/revision/latest?cb=20091206115140",
+            "species": "Human",
+            "yearOfBirth": "72 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III)"
+        },
+        {
+            "id": 15,
+            "name": "Yoda",
+            "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Yoda_TPM_RotS.png/revision/latest?cb=20130810185858",
+            "species": "Unknown",
+            "yearOfBirth": "896 BBY"  ,
+            "movies" : "Star Wars: The Phantom Menace (Episode I), Star Wars: Attack of the Clones (Episode II), Star Wars: Revenge of the Sith (Episode III), Star Wars: The Empire Strikes Back (Episode V), Star Wars: Return of the Jedi (Episode VI)"
+        }
+    ]
+}
